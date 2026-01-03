@@ -1,2 +1,1 @@
-# qt-serial-communication
-Qt-based application that demonstrates bidirectional serial communication
+made with qt 1.15.0
